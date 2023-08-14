@@ -2,7 +2,7 @@ Olá, me chamo Rosi 👋
 
  Presentemente estudo no Senac-GO (Serviço Nacional de aprendizagem comercial).
  
-## Cursos Profissionalizantes Finalizados:
+## Cursos profissionalizantes finalizados:
 Atualmente trabalho com: PostgreSQL(DBA), Brmodelo(modelagem de DBA), JavaScript (back-end).
 
 ## Contatos
