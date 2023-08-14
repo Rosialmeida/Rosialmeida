@@ -5,5 +5,5 @@ Olá, me chamo Rosi 👋
 ## Cursos profissionalizantes finalizados:
 PostgreSQL(DBA), Brmodelo(modelagem de DBA), JavaScript (back-end).
 
-## Contatos
+## Contatos:
 Email: rosialmeidadev@outlook.com
