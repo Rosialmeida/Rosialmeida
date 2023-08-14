@@ -1,9 +1,7 @@
 Olá, me chamo Rosi 👋
 
- Presentemente estudo no Senac-GO (Serviço Nacional de aprendizagem comercial).
- 
 ## Cursos profissionalizantes finalizados:
-- Programador de sistemas 
+- Programador de sistemas - Senac-GO (Serviço Nacional de aprendizagem comercial).
 
 ## Ferramentas:
 - PostgreSQL(DBA)
